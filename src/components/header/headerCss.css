@@ -1,60 +1,113 @@
 .container{
-  padding: 0.5rem;
-  display: flex;
-  background-color: rgba(0, 0, 0, 0.068);
-}
-.logo{
-   display: flex;
-   align-items: center;
-   flex: 0.95;
-   gap: 1rem;
-   
-}
-.logo>img{
-    width: 3rem;
-    height: 3rem;
-    margin-right: 1rem;
-}
-.logo>span{
-    font-size: 1.5rem;
-    font-weight: 500;
-}
-.right{
-    display: flex;
-    gap: 1.5rem;
-    align-items: center;
-    justify-content: center;
-
-}
-.menu{
-    display: flex;
-    gap: 1.5rem;
-    list-style: none;
-   
-    
-    
-}
-.menu>li:hover{
-    cursor: pointer;
-    color: teal;
-   
-}
-
-.search{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1rem;
     padding: 0.5rem;
-    border-radius: 0.5rem;
-    background-color: #fff;
-    border: none;
-}
+    display: flex;
+    background-color: rgba(0, 0, 0, 0.068);
+  }
+  .logo{
+     display: flex;
+     align-items: center;
+     flex: 0.95;
+     gap: 1rem;
+     
+  }
+  .menu-bars{
+        display: none;
+  }
+  .logo>img{
+      width: 3rem;
+      height: 3rem;
+      margin-right: 1rem;
+  }
+  .logo>span{
+      font-size: 1.5rem;
+      font-weight: 500;
+  }
+  .right{
+      display: flex;
+      gap: 1.5rem;
+      align-items: center;
+      justify-content: center;
+  
+  }
+  .menu{
+      display: flex;
+      gap: 1.5rem;
+      list-style: none;
+     
+      
+      
+  }
+  .menu>li:hover{
+      cursor: pointer;
+      color: teal;
+     
+  }
+  
+  .search{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 1rem;
+      padding: 0.5rem;
+      border-radius: 0.5rem;
+      background-color: #fff;
+      border: none;
+  }
+  
+  .cart{
+   width: 1.5rem;
+   height: 1.5rem;
+   cursor: pointer;
+   
+  
+  }
 
-.cart{
- width: 1.5rem;
- height: 1.5rem;
- cursor: pointer;
- 
-
-}
+  @media (max-width: 768px) {
+    .logo {
+      flex: 1;
+      margin-bottom: 1rem;
+    }
+  
+    .menu {
+      display: none;
+    }
+  
+    .search {
+      display: none;
+    }
+  
+    .menu-bars {
+      width: 50px;
+      height: 20px;
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .menu-bars:hover{
+        cursor: pointer;
+        color: teal;
+       
+    }
+  
+    .show .menu {
+      display: flex !important;
+      flex-direction: column;
+      gap: 0.5rem;
+      padding: 0;
+      margin: 0;
+      list-style: none;
+    }
+  
+    .show .menu > li {
+      padding: 0.5rem;
+      border-bottom: 1px solid #ccc;
+    }
+  
+    .show .menu > li:last-child {
+      border-bottom: none;
+    }
+    .cart{
+        display: none;
+    }
+  }
