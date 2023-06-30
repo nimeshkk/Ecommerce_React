@@ -10,10 +10,10 @@ export default function home() {
              {/* left */}
 
         <div className="h_sides">
-            <span className="h_text1">aaaaaaahbhvhv</span>
+            {/* <span className="h_text1">aaaaaaahbhvhv</span> */}
 
             <div className="h_text2">
-                <span>sssssssssssss</span>
+                <span>The Fashion Hut</span>
                 
             </div>
         </div>
@@ -27,11 +27,11 @@ export default function home() {
             {/* right     */}
         <div className="h_sides">
             <div className="t3">
-            <span>aaaaaaa hbhvhv</span>
+            <span>The Fahion Hut</span>
             
             </div>
             <div className="t4">
-            <span>aaaaaaa hbhvhv</span>
+            {/* <span>aaaaaaa 1hbhvhv</span> */}
             
             </div>
             

@@ -11,8 +11,8 @@ export default function Nav() {
   };
 
   return (
-    <header>
-      <h3>logo</h3>
+    <navheader>
+      <h3 className='logo'>logo</h3>
       <nav ref={navRef}>
         <a href="#">Home</a>
         <a href="#">About</a>
@@ -24,7 +24,7 @@ export default function Nav() {
       <button className="nav-btn" onClick={showNavbar}>
         <FontAwesomeIcon icon={faBars} />
       </button>
-    </header>
+    </navheader>
   );
 }
 
