@@ -1,8 +1,10 @@
 .s_container 
   {
-    padding-top: 5%;
-    width: 100%;
+    padding-left: 10%;
+    padding-top: 2%;
+    width: 80%;
     height: auto;
+    background-color: rgb(255, 255, 255);
   }
   
   .swiper {
@@ -11,13 +13,14 @@
   }
   
   .slide-image {
-    width: 30%;
-    height:auto;
+    width: 40%;
+    height:50%;
     object-fit: cover; 
+    justify-content: center;
   }
   
   .slide-description {
-    margin-top: 10px; 
+    top: 50px; 
     text-align: center;
   }
   
