@@ -5,6 +5,7 @@ import Header from './components/header/header';
 import Home from './components/home/home';
 import Slider from './components/slider/slider';
 import Navbar from './components/nav/nav'
+import Swap from './components/swap/swap'
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Navbar/>
       <Home/>
       <Slider/>
+      <Swap/>
       
       
       

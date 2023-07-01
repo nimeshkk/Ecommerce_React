@@ -17,7 +17,7 @@
 .h_wrapper>img{
     width: 15rem;
     top: 18%;
-    position: relative;
+    position:absolute;
 }
 
 
@@ -66,10 +66,9 @@
 @media only screen and (max-width:1024px) {
 
     .h_wrapper>img{
-        width: 13rem;
-        top: 20%;
-        right: 14%;
-        position:fixed;
+    width: 12rem;
+    top: 18%;
+    position:absolute;
     }
     .t3{
       visibility: hidden;
@@ -81,10 +80,10 @@
 @media only screen and (max-width:700px) {
 
     .h_wrapper>img{
-        width: 10rem;
-        top: 15%;
-        right: 7%;
-        position:fixed;
+     width: 10rem;
+    top: 18%;
+    left: 50%;
+    position:absolute;
     }
     .t3{
       visibility: hidden;
