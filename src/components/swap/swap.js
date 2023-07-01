@@ -7,7 +7,7 @@ import imgR from '../../assets/img/red-handbag2.jpg'
 
 export default function swap() {
   return (
-    <div className='swap'>
+    <div className='s-swap'>
         <div className='s-left'>
             <span>111</span>
             <span>222</span>

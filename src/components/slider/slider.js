@@ -21,7 +21,7 @@ export default function Slider() {
     <div className="s_container">
       <div className="swiper">
         <Swiper
-          spaceBetween={6}
+          spaceBetween={2}
           loop={true}
           slidesPerView={2}
           navigation={true} // Enable navigation

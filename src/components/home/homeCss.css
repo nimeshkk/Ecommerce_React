@@ -4,7 +4,7 @@
     display:grid;
     grid-template-columns: 1fr 2fr 1fr;
     width: auto;
-    height: 55vh;
+    height: 50vh;
     background-color: rgb(255, 255, 255);
 }
 .h_wrapper{

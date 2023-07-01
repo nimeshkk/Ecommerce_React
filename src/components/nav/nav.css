@@ -75,6 +75,9 @@ navheader .nav-btn{
   }
 
   @media only screen and (max-width:550px) {
+
+   
+
     navheader .nav-btn{
       visibility: visible;
       opacity: 1;
