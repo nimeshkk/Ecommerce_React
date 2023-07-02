@@ -16,13 +16,13 @@
 
 .h_wrapper>img{
     width: 15rem;
-    top: 18%;
+    top: 10%;
     position:absolute;
 }
 
 
 .h_sides{
-    padding-top: 20%;
+    padding-top: 10%;
     display:grid;
     grid-template-rows: 1fr 1fr;
     gap: 3rem;
@@ -64,6 +64,15 @@
 }
 
 @media only screen and (max-width:1024px) {
+
+    .h_container{
+        padding: 0rem 2rem;
+        display:grid;
+        grid-template-columns: 1fr 2fr 1fr;
+        width: auto;
+        height: 40vh;
+        background-color: rgb(255, 255, 255);
+    }
 
     .h_wrapper>img{
     width: 12rem;

@@ -30,7 +30,7 @@ export default function Slider() {
         >
         
           <SwiperSlide>
-            <img src={img2} alt="Slide 1" className="slide-image" />
+            <img src={img2} alt="Slide 1" className="slide-image"  />
             <div className="slide-description">black-back-sweater</div>
           </SwiperSlide>
           <SwiperSlide>

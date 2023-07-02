@@ -8,6 +8,7 @@ import Navbar from './components/nav/nav'
 import Swap from './components/swap/swap'
 
 
+
 function App() {
   return (
     <div >
@@ -16,6 +17,7 @@ function App() {
       <Home/>
       <Slider/>
       <Swap/>
+      
       
       
       

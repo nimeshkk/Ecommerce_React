@@ -1,5 +1,5 @@
 .s-swap{
-    margin-top: 6rem;
+    margin-top: 8rem;
     margin-bottom: 6rem;
     padding: 2rem;
     display: flex;
@@ -42,6 +42,14 @@
 
 @media only screen and (max-width:700px)
 {
+
+    .s-swap{
+        margin-top: 3rem;
+        margin-bottom: 3rem;
+        padding: 2rem;
+        display: flex;
+        justify-content:space-around;
+    }
     
     .s-swap{
         flex-direction: column;
