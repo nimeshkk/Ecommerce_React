@@ -6,6 +6,7 @@ import Home from './components/home/home';
 import Slider from './components/slider/slider';
 import Navbar from './components/nav/nav'
 import Swap from './components/swap/swap'
+import Product from './components/product/product'
 
 
 
@@ -17,6 +18,7 @@ function App() {
       <Home/>
       <Slider/>
       <Swap/>
+      <Product/>
       
       
       

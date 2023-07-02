@@ -1,0 +1,100 @@
+.p_container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    gap:2%;
+    
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 50vh;
+}
+
+.p_header{
+    width: 100%;
+    padding-top: 1%;
+    color: #1c1b1b;
+    justify-content: center;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+    
+   
+}
+.p_itemsName{
+    
+    width: 100%;
+    color: #1c1b1b;
+    margin-top: 1%;
+    gap: 8%;
+    justify-content: center;
+    font-size: 1rem;
+    font-weight: 500;
+    display: flex;
+   
+}
+.btn-all{
+    background-color: #1c1b1b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+   
+}
+.btn-all:hover{
+    background-color: #fff;
+    color: #1c1b1b;
+    
+}
+.btn-kids{
+    background-color: #1c1b1b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+    
+}
+.btn-kids:hover{
+    background-color: #fff;
+    color: #1c1b1b;
+    
+}
+.btn-gents{
+    background-color: #1c1b1b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+   
+}
+.btn-gents:hover{
+    background-color: #fff;
+    color: #1c1b1b;
+   
+}
+.btn-ladies{
+    background-color: #1c1b1b;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    font-weight: 500;
+    cursor: pointer;
+   
+}
+.btn-ladies:hover{
+    background-color: #fff;
+    color: #1c1b1b;
+   
+}
+
