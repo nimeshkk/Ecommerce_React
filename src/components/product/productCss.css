@@ -7,10 +7,11 @@
    
 }
 
+
 .tab_body {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(145, 145, 145);
     font-family: 'Roboto', sans-serif;
-    margin: 20px;
+    margin: 10px;
 }
 
 h1 {

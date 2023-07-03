@@ -7,10 +7,7 @@ import Slider from './components/slider/slider';
 import Navbar from './components/nav/nav'
 import Swap from './components/swap/swap'
 import Tabs from './components/product/product'
-
-
-
-
+import TitlebarBelowImageList from './components/gallery/gallery'
 
 
 function App() {
@@ -22,11 +19,9 @@ function App() {
       <Slider/>
       <Swap/>
       <Tabs/>
+      <TitlebarBelowImageList/>
       
-      
-      
-      
-      
+     
     </div>
   );
 }

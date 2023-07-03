@@ -1,0 +1,17 @@
+.g-container{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto; */
+    /* max-width: 1200px; */
+    /* padding: 10px 15px;
+    width: 30%;
+    height: 10%; */
+    
+    background-color: rgb(255, 255, 255);
+
+}
+
+.g-mainContainer{
+    background-color: rgb(220, 220, 220);
+}

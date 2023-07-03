@@ -2,6 +2,9 @@ import React, { useState } from 'react';
 import './productCss.css';
 
 
+
+
+
 const Tabs = () => {
 
     const [currentTab, setCurrentTab] = useState('1');
@@ -10,13 +13,15 @@ const Tabs = () => {
             id: 1,
             tabTitle: 'Kids',
             title: 'Title 1',
-            content: 'Las t a partir de un array de objetos, el cual tiene las propiedades: id, tabTitle, title y content.'
+            content: 'Las t a partir de un array de objetos, el cual tiene las propiedades: id, tabTitle, title y content.',
+            
         },
         {
             id: 2,
             tabTitle: 'Gents',
             title: 'Title 2',
-            content: 'Contenido de tab 2.'
+            content: 'Contenido de tab 2.',
+           
         },
         {
             id: 3,

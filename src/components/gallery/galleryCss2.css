@@ -1,0 +1,13 @@
+.g-container2{
+       display: flex;
+    justify-content: right;
+    align-items: right;
+    margin: 0 auto;
+    /* max-width: 1200px; */
+    padding: 10px 15px;
+    width: 30%;
+    height: 10%;
+   
+    
+  
+}
