@@ -8,6 +8,7 @@ import Navbar from './components/nav/nav'
 import Swap from './components/swap/swap'
 import Tabs from './components/product/product'
 import TitlebarBelowImageList from './components/gallery/gallery'
+import Footer from './components/footer/footer'
 
 
 function App() {
@@ -20,6 +21,7 @@ function App() {
       <Swap/>
       <Tabs/>
       <TitlebarBelowImageList/>
+      <Footer/>
       
      
     </div>

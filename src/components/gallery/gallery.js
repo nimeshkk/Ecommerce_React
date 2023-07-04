@@ -9,11 +9,11 @@ import './galleryCss.css'
 export default function TitlebarBelowImageList() {
   return (
     <div className='g-mainContainer'>
-    <h1 className='g-title'>Gallery</h1>
+    <h1 className='g-title'>New Feature Items</h1>
     <div className='g-mainDetails'>
         <p>jbjbjbhvhvhjvhvjhvjh</p>
     </div>
-    <ImageList className='g-container' sx={{ width: 500, height: 450 }}>
+    <ImageList className='g-container' sx={{ width: 350, height: 450 }}>
       {itemData.map((item) => (
         <ImageListItem key={item.img}>
           <img

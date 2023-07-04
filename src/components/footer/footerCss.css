@@ -1,0 +1,30 @@
+.footertext-center{
+    text-align: center;
+    color: #fff;
+    font-size: 1.2rem;
+    padding: 1rem;
+    background-color: #5e5d5d80;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+.footerMain{
+    background-color: #76767688;
+    padding: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+}
+
+@media only screen and (max-width:1024px) {
+    .footertext-center{
+        font-size: 1rem;
+    }
+
+    .footerMain{
+        padding: 0.5rem;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        height: 30vh;
+    }
+
+}

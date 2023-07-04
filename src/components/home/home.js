@@ -1,6 +1,6 @@
 import React from 'react'
 import './homeCss.css';
-import ShopPng from '../../assets/img/(12).png'
+import ShopPng from '../../assets/img/white-coat-jacket-big-black-hat.jpg'
 
 
 export default function home() {

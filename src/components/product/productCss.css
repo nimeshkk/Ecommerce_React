@@ -3,13 +3,13 @@
     padding: 0;
     box-sizing: border-box;
     width: 90%;
-    height: 100vh;
+    height: 50vh;
    
 }
 
 
 .tab_body {
-    background-color: rgb(145, 145, 145);
+    background-color: rgb(255, 255, 255);
     font-family: 'Roboto', sans-serif;
     margin: 10px;
 }

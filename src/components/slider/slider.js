@@ -18,8 +18,8 @@ SwiperCore.use([Navigation]);
 
 export default function Slider() {
   return (
-    <div className="s_container">
-      <div className="swiper">
+    <div className="ss_container">
+      <div className="s_swiper">
         <Swiper
           spaceBetween={2}
           loop={true}
@@ -30,20 +30,20 @@ export default function Slider() {
         >
         
           <SwiperSlide>
-            <img src={img2} alt="Slide 1" className="slide-image"  />
-            <div className="slide-description">black-back-sweater</div>
+            <img src={img2} alt="Slide 1" className="s_slide-image"  />
+            <div className="sslide-description">black-back-sweater</div>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={img3} alt="Slide 2" className="slide-image" />
-            <div className="slide-description">Men's Denim</div>
+            <img src={img3} alt="Slide 2" className="s_slide-image" />
+            <div className="sslide-description">Men's Denim</div>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={img4} alt="Slide 3" className="slide-image" />
-            <div className="slide-description">blue-t-shirt</div>
+            <img src={img4} alt="Slide 3" className="s_slide-image" />
+            <div className="sslide-description">blue-t-shirt</div>
           </SwiperSlide>
           <SwiperSlide>
-            <img src={img5} alt="Slide 4" className="slide-image" />
-            <div className="slide-description">pink-sweater</div>
+            <img src={img5} alt="Slide 4" className="s_slide-image" />
+            <div className="sslide-description">pink-sweater</div>
           </SwiperSlide>
         </Swiper>
         
