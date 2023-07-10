@@ -45,7 +45,7 @@
     flex-direction:row;
     gap: 0.5rem;
     display: flex;
-    width: min-content;
+    width: 20rem;
 
         
 }
@@ -57,9 +57,10 @@
 }
 
 .t3{
-    font-size: 2rem;
+    font-size: 1rem;
     font-weight: 400;
     gap: 3rem;
+    width: 25rem;
     
 }
 
@@ -91,7 +92,7 @@
     .h_wrapper>img{
      width: 10rem;
     top: 18%;
-    left: 50%;
+    left: 30%;
     position:absolute;
     }
     .t3{
@@ -99,4 +100,22 @@
         
     }
     
+    .h_text2{
+        font-size: 1rem;
+        font-weight: 300;
+        flex-direction:row;
+        gap: 0.5rem;
+        display: flex;
+        width: 10rem;
+    
+            
+    }
+
+    .h_sides{
+        padding-top: 10%;
+        display:grid;
+        grid-template-rows: 0.7fr 0.7fr;
+        gap: 2rem;
+        
+    }
 }

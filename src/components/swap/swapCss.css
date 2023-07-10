@@ -23,14 +23,14 @@
     
 }
 .s-swap .s-left >:nth-child(2){
-    font-size: 2rem;
+    font-size: 1.1rem;
     text-transform: uppercase;
     display: block;
-    width:20rem;
+    width:30rem;
     
 }
 .s-swap .s-left >:nth-child(3){
-    font-size: 1.5rem;
+    font-size: 0.8rem;
     text-transform: lowercase;
     display: block;
     width:20rem;
@@ -61,29 +61,29 @@
         gap: 1rem;
     }
     .s-swap .s-left >:nth-child(1){
-        font-size: 2rem;
+        font-size: 1rem;
         text-transform: uppercase;
         display: block;
-        width:20rem;
+        width:15rem;
         font-weight: bold;
         
     }
     .s-swap .s-left >:nth-child(2){
-        font-size: 1.5rem;
+        font-size: 0.9rem;
         text-transform: uppercase;
-        display: block;
-        width:20rem;
+        display: flex;
+        width:10rem;
         
     }
     .s-swap .s-left >:nth-child(3){
         font-size: 1rem;
         text-transform: lowercase;
         display: block;
-        width:20rem;
+        width:10rem;
         
     }
     .s-wrapper{
-        width: 20rem;
+        width: 15rem;
     }
 }
 

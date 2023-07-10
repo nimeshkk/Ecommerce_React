@@ -12,22 +12,22 @@ const Tabs = () => {
         {
             id: 1,
             tabTitle: 'Kids',
-            title: 'Title 1',
-            content: 'Las t a partir de un array de objetos, el cual tiene las propiedades: id, tabTitle, title y content.',
+            title: 'KIDS SECTION',
+            content: 'Our kids collection features a wide range of options for boys and girls of all ages. We understand that children clothing should be durable, practical, and, most importantly, reflect their vibrant personalities. Thats why we carefully curate our selection to include a variety of designs, colors, and patterns that will make your child stand out in the crowd.',
             
         },
         {
             id: 2,
-            tabTitle: 'Gents',
-            title: 'Title 2',
-            content: 'Contenido de tab 2.',
+            tabTitle: 'Gents ',
+            title: 'GENTS SECTION',
+            content: 'Our mens collection features a diverse range of clothing options designed to elevate your wardrobe. Whether you are dressing up for a formal occasion or looking for casual everyday wear, we have you covered. From tailored suits and dress shirts to relaxed jeans and stylish t-shirts, our collection offers versatility and style for every occasion.',
            
         },
         {
             id: 3,
             tabTitle: 'Ladies',
-            title: 'Title 3',
-            content: 'Contenido de tab 3.'
+            title: 'LADIES SECTION',
+            content: 'Our womens collection is thoughtfully curated to cater to diverse tastes and occasions. Whether you are dressing up for a glamorous night out or seeking comfortable and stylish everyday wear, we have a wide range of options to suit your needs. Our collection embraces the latest fashion trends while offering timeless classics, ensuring that you can stay fashionable while expressing your personal style.'
         },
         
         

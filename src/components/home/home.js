@@ -25,19 +25,19 @@ export default function home() {
 
 
             {/* right     */}
-        <div className="h_sides">
+        {/* <div className="h_sides2">
             <div className="t3">
-            <span>The Fahion Hut</span>
+            <span>our extensive collection of clothing, accessories, and footwear for men, women, and children, we aim to cater to diverse tastes and preferences.</span>
             
             </div>
-            <div className="t4">
+            <div className="t4"> */}
             {/* <span>aaaaaaa 1hbhvhv</span> */}
             
-            </div>
+            {/* </div> */}
             
 
 
-        </div>
+        {/* </div> */}
       
     </div>
   )
