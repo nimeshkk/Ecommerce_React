@@ -5,7 +5,7 @@ import ShopPng from '../../assets/img/white-coat-jacket-big-black-hat.jpg'
 
 export default function home() {
   return (
-    <div className="h_container">
+    <div className="h_container" id="#home">
 
              {/* left */}
 

@@ -7,7 +7,7 @@ import imgR from '../../assets/img/red-handbag2.jpg'
 
 export default function swap() {
   return (
-    <div className='s-swap'>
+    <div className='s-swap' id="about">
         <div className='s-left'>
             <span>Fashion Hut Clothes</span>
             <span>Welcome to Fashion Hut Clothes, your ultimate destination for all things fashion! We are a premier online platform dedicated to bringing you the latest trends, styles, and high-quality clothing options.</span>

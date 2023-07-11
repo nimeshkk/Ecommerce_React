@@ -9,13 +9,14 @@ import Swap from './components/swap/swap'
 import Tabs from './components/product/product'
 import TitlebarBelowImageList from './components/gallery/gallery'
 import Footer from './components/footer/footer'
+import NavigationBar from './components/nav/nav'
 
 
 function App() {
   return (
     <div >
       {/* <Header/> */}
-      <Navbar/>
+      <NavigationBar/>
       <Home/>
       <Slider/>
       <Swap/>
