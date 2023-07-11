@@ -1,11 +1,11 @@
 <table>
   <tr>
-    <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(57).png" width="500" height="300"/></td>
-    <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(58).png" width="500" height="300"/></td>
+    <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(57).png" width="400" height="300"/></td>
+    <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(58).png" width="400" height="300"/></td>
   </tr>
   <tr>
-     <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(59).png" width="500" height="300"/></td>
-     <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(60).png" width="500" height="300"/></td>
+     <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(59).png" width="400" height="300"/></td>
+     <td><img src="https://github.com/nimeshkk/Ecommerce_React/blob/master/img1/Screenshot%20(60).png" width="400" height="300"/></td>
     
   </tr>
 </table>
