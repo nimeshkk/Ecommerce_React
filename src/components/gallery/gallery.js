@@ -40,32 +40,32 @@ export default function TitlebarBelowImageList() {
 const itemData = [
   {
     img: 'https://images.unsplash.com/photo-1556905055-8f358a7a47b2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80',
-    title: 'Breakfast',
+    title: 'Denim',
     author: '@bkristastucchio',
   },
   {
     img: 'https://images.unsplash.com/photo-1620799140408-edc6dcb6d633?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTR8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
-    title: 'Burger',
+    title: 'White Tshirt',
     author: '@rollelflex_graphy726',
   },
   {
     img: 'https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzB8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
-    title: 'Camera',
+    title: 'Blue Tshirt',
     author: '@helloimnik',
   },
   {
     img: 'https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
-    title: 'Coffee',
+    title: 'jacket',
     author: '@nolanissac',
   },
   {
     img: 'https://images.unsplash.com/photo-1620799140188-3b2a02fd9a77?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
-    title: 'Hats',
+    title: 'Sweater',
     author: '@hjrc33',
   },
   {
     img: 'https://images.unsplash.com/photo-1479064555552-3ef4979f8908?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDl8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
-    title: 'Honey',
+    title: 'Mens Collection',
     author: '@arwinneil',
   },
   {
@@ -75,27 +75,27 @@ const itemData = [
   },
   {
     img: 'https://images.unsplash.com/photo-1519415943484-9fa1873496d4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTAyfHxjbG90aGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
-    title: 'Fern',
+    title: 'Jackets',
     author: '@katie_wasserman',
   },
   {
     img: 'https://images.unsplash.com/photo-1594750823491-e493d067ce3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTJ8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
-    title: 'Mushrooms',
+    title: 'Shoes',
     author: '@silverdalex',
   },
   {
     img: 'https://images.unsplash.com/photo-1620799139507-2a76f79a2f4d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTN8fGNsb3RoZXN8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60',
-    title: 'Tomato basil',
+    title: 'Tshirt',
     author: '@shelleypauls',
   },
   {
     img: 'https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTEyfHxjbG90aGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
-    title: 'Sea star',
+    title: 'Shirts',
     author: '@peterlaster',
   },
   {
     img: 'https://images.unsplash.com/photo-1516763296043-f676c1105999?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTg1fHxjbG90aGVzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60',
-    title: 'Sea star',
+    title: 'Womens collection',
     author: '@peterlaster',
   },
  

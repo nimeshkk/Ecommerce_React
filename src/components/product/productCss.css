@@ -98,8 +98,7 @@ footer a {
 footer a:hover {
     text-decoration: underline;
 }
-
-@media only screen and (max-width: 960px) {
+@media only screen and (max-width: 1024px) {
 
     .tab_container {
         width: 100%;
@@ -107,6 +106,7 @@ footer a:hover {
 
     .content {
         padding: 50px;
+        font-size: 10px;
     }
 
     .tabs button {
@@ -119,6 +119,47 @@ footer a:hover {
         width: 100%;
         background-color: rgba(255, 255, 255, 0.1);
         transition: all 0.5s ease-out;
+    }
+    .tab_container {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 90%;
+        height: 70vh;
+       
+    }
+ 
+}
+
+@media only screen and (max-width: 960px) {
+
+    .tab_container {
+        width: 100%;
+    }
+
+    .content {
+        padding: 50px;
+        font-size: 10px;
+    }
+
+    .tabs button {
+        background-color: lightgray;
+        border: none;
+        font-size: 20px;
+        color: #000000;
+        cursor: pointer;
+        padding: 25px;
+        width: 100%;
+        background-color: rgba(255, 255, 255, 0.1);
+        transition: all 0.5s ease-out;
+    }
+    .tab_container {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        width: 90%;
+        height: 70vh;
+       
     }
  
 }

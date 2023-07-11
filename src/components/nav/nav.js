@@ -19,17 +19,15 @@ const NavigationBar = () => {
         </button>
         <ul className={`navbar-list ${isMenuOpen ? 'open' : ''}`}>
           <li className="navbar-item">
-            <a href="/" className="navbar-link">Home</a>
+            <a href="#home" className="navbar-link">Home</a>
           </li>
           <li className="navbar-item">
-            <a href="/about" className="navbar-link">About</a>
+            <a href="#about" className="navbar-link">About</a>
           </li>
           <li className="navbar-item">
-            <a href="/services" className="navbar-link">Services</a>
+            <a href="#feature" className="navbar-link">Features</a>
           </li>
-          <li className="navbar-item">
-            <a href="/contact" className="navbar-link">Contact</a>
-          </li>
+         
         </ul>
       </div>
     </nav>
